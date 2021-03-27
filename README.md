@@ -8,3 +8,5 @@
 ntthang-dev/ntthang-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![ntthang's github stats](https://github-readme-stats.vercel.app/api?username=ntthang-dev&show_icons=true)
