@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntthang-dev&show_icons=true&locale=en&layout=compact" alt="ntthang-dev" /></p>
 
 <!---Streak stats--->
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ntthang-dev&" alt="ntthang-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntthang-dev&" alt="ntthang-dev" /></p>
 
 ---
 
