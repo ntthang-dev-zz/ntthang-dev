@@ -40,14 +40,21 @@ You can click the Preview link to take a look at your changes.
 <!---Most used language--->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntthang-dev&show_icons=true&locale=en&layout=compact" alt="ntthang-dev" /></p>
 
-<!---Stats--->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntthang-dev&show_icons=true" alt="ntthang-dev" /></p>
-
 <!---Streak stats--->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntthang-dev&" alt="ntthang-dev" /></p>
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 
+</details>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntthang-dev&show_icons=true" alt="ntthang-dev" />
+
+</details>
