@@ -9,7 +9,12 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntthang-dev&label=Profile%20views&color=0662ad&style=flat" alt="ntthang-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntthang-dev" alt="ntthang-dev" /></a> </p>
+<h2>🏆 Github Profile Trophy</h2>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=ntthang-dev&column=7&theme=gruvbox&no-frame=true" alt="ntthang-dev" />
+  </a> 
+</p>
 
 - 👀 I’m interested in **software technology and artificial intelligence**
 
