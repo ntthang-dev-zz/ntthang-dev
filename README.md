@@ -46,6 +46,12 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
+2. 🗣 Commented on [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
+3. 🎉 Merged PR [#2](https://github.com/ntthang-dev/hello-github-actions/pull/2) in [ntthang-dev/hello-github-actions](https://github.com/ntthang-dev/hello-github-actions)
+4. 💪 Opened PR [#2](https://github.com/ntthang-dev/hello-github-actions/pull/2) in [ntthang-dev/hello-github-actions](https://github.com/ntthang-dev/hello-github-actions)
+5. ❗️ Closed issue [#2](https://github.com/ntthang-dev/github-slideshow/issues/2) in [ntthang-dev/github-slideshow](https://github.com/ntthang-dev/github-slideshow)
+<!--END_SECTION:activity-->
 
 ![ntthang's github stats](https://github-readme-stats.vercel.app/api?username=ntthang-dev&show_icons=true)
 
