@@ -196,6 +196,9 @@ a    <a href="https://www.cprogramming.com/" target="_blank">
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!---Most used language--->
