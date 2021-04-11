@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact : **I love to draw and play piano / drums**
 
-  <img align="right" alt="GIF" src="https://github.com/ntthang-dev/ntthang-dev/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ntthang-dev/ntthang-dev/blob/main/Sleepiest.gif?raw=true" width="500" height="320" />
 
 <!---Language and tools--->
 <h3 align="left">Languages and Tools:</h3>
