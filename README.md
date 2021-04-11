@@ -213,11 +213,11 @@ No Activity tracked this Week
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ntthang-dev/website/pull/1) in [ntthang-dev/website](https://github.com/ntthang-dev/website)
-2. ❗️ Opened issue [#1784](https://github.com/tinygo-org/tinygo/issues/1784) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
-3. ❗️ Closed issue [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
-4. 🗣 Commented on [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
-5. 🎉 Merged PR [#2](https://github.com/ntthang-dev/hello-github-actions/pull/2) in [ntthang-dev/hello-github-actions](https://github.com/ntthang-dev/hello-github-actions)
+1. 🗣 Commented on [#1784](https://github.com/tinygo-org/tinygo/issues/1784) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+2. 🎉 Merged PR [#1](https://github.com/ntthang-dev/website/pull/1) in [ntthang-dev/website](https://github.com/ntthang-dev/website)
+3. ❗️ Opened issue [#1784](https://github.com/tinygo-org/tinygo/issues/1784) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+4. ❗️ Closed issue [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
+5. 🗣 Commented on [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
 <!--END_SECTION:activity-->
 
 </details>
