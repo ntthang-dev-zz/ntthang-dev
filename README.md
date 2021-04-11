@@ -201,6 +201,10 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/jackienguyen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <!---Most used language--->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntthang-dev&show_icons=true&locale=en&layout=compact" alt="ntthang-dev" /></p>
 
