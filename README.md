@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
         PROGRAMMING LANGUAGES 
     -->
     <!---------------------C programming---------------------> 
-a    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
     </a>     
     <!---------------------Cpp---------------------> 
