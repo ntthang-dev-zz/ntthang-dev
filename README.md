@@ -7,7 +7,19 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm @ntthang-dev</h1>
 <h3 align="center">Student of electrical engineering at the Ho Chi Minh University of Technology</h3>
 
+<a href="https://twitter.com/ntthang_dev">
+  <img align="left" alt="Jackie Nguyen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ntthang-dev/">
+  <img align="left" alt="Jackie Nguyen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/m6om2tw5icvgvvuvlak3e7kre">
+  <img align="left" alt="Jackie Nguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntthang-dev&label=Profile%20views&color=0662ad&style=flat" alt="ntthang-dev" /> </p>
+
+<br />
 
 <h2>🏆 Github Profile Trophy</h2>
 <p align="left"> 
@@ -28,14 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact : **I love to draw and play piano / drums**
 
-<!---Connect with me--->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ntthang_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ntthang_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ntthang-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ntthang-dev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ntthang?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/ntthang?hr_r=1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/roneinstein/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/roneinstein/profile" height="30" width="40" /></a>
-</p>
+  <img align="right" alt="GIF" src="https://github.com/ntthang-dev/ntthang-dev/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <!---Language and tools--->
 <h3 align="left">Languages and Tools:</h3>
@@ -51,7 +56,7 @@ You can click the Preview link to take a look at your changes.
         PROGRAMMING LANGUAGES 
     -->
     <!---------------------C programming---------------------> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
+a    <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
     </a>     
     <!---------------------Cpp---------------------> 
@@ -188,6 +193,10 @@ You can click the Preview link to take a look at your changes.
         <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" /> 
     </a>
 </p>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---Most used language--->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntthang-dev&show_icons=true&locale=en&layout=compact" alt="ntthang-dev" /></p>
