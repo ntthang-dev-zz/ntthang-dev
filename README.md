@@ -221,11 +221,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1784](https://github.com/tinygo-org/tinygo/issues/1784) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
-2. 🎉 Merged PR [#1](https://github.com/ntthang-dev/website/pull/1) in [ntthang-dev/website](https://github.com/ntthang-dev/website)
-3. ❗️ Opened issue [#1784](https://github.com/tinygo-org/tinygo/issues/1784) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
-4. ❗️ Closed issue [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
-5. 🗣 Commented on [#1](https://github.com/ntthang-dev/ntthang_blog/issues/1) in [ntthang-dev/ntthang_blog](https://github.com/ntthang-dev/ntthang_blog)
+1. ❗️ Opened issue [#121122](https://github.com/microsoft/vscode/issues/121122) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗️ Opened issue [#172](https://github.com/redhat-developer/vscode-rsp-ui/issues/172) in [redhat-developer/vscode-rsp-ui](https://github.com/redhat-developer/vscode-rsp-ui)
+3. ❗️ Opened issue [#1557](https://github.com/ritwickdey/vscode-live-server/issues/1557) in [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+4. ❗️ Opened issue [#186](https://github.com/wakatime/vscode-wakatime/issues/186) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+5. 🗣 Commented on [#1784](https://github.com/tinygo-org/tinygo/issues/1784) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
 <!--END_SECTION:activity-->
 
 </details>
