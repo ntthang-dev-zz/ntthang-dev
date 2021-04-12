@@ -221,11 +221,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#121122](https://github.com/microsoft/vscode/issues/121122) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#172](https://github.com/redhat-developer/vscode-rsp-ui/issues/172) in [redhat-developer/vscode-rsp-ui](https://github.com/redhat-developer/vscode-rsp-ui)
-3. ❗️ Opened issue [#1557](https://github.com/ritwickdey/vscode-live-server/issues/1557) in [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
-4. ❗️ Opened issue [#186](https://github.com/wakatime/vscode-wakatime/issues/186) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-5. 🗣 Commented on [#1784](https://github.com/tinygo-org/tinygo/issues/1784) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+1. 🗣 Commented on [#186](https://github.com/wakatime/vscode-wakatime/issues/186) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+2. 🗣 Commented on [#121122](https://github.com/microsoft/vscode/issues/121122) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❌ Closed PR [#2](https://github.com/ntthang-dev/restful-api-golang/pull/2) in [ntthang-dev/restful-api-golang](https://github.com/ntthang-dev/restful-api-golang)
+4. 💪 Opened PR [#2](https://github.com/ntthang-dev/restful-api-golang/pull/2) in [ntthang-dev/restful-api-golang](https://github.com/ntthang-dev/restful-api-golang)
+5. 💪 Opened PR [#1](https://github.com/ntthang-dev/restful-api-golang/pull/1) in [ntthang-dev/restful-api-golang](https://github.com/ntthang-dev/restful-api-golang)
 <!--END_SECTION:activity-->
 
 </details>
