@@ -197,7 +197,7 @@ You can click the Preview link to take a look at your changes.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
 Go           2 hrs 35 mins   █████████████████░░░░░░░░   68.64 % 
 C            43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.26 % 
