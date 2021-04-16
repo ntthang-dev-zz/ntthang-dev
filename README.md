@@ -199,11 +199,11 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 08 April, 2021 - 15 April, 2021
 
-Go           2 hrs 35 mins   █████████████░░░░░░░░░░░░   51.74 % 
-C            1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.83 % 
-Markdown     1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.92 % 
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Go           2 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.59 % 
+C            1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Markdown     1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
 
