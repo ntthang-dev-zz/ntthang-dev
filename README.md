@@ -199,11 +199,8 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 16 April, 2021 - 23 April, 2021
 
-Go         57 mins         ██████████████▓░░░░░░░░░░   58.19 % 
-Other      26 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.08 % 
-C++        9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-CMake      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Go         14 mins         ██████████████████▓░░░░░░   74.89 % 
+Other      4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 ```
 <!--END_SECTION:waka-->
 
