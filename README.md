@@ -220,11 +220,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#129](https://github.com/openenergymonitor/emonpi/issues/129) in [openenergymonitor/emonpi](https://github.com/openenergymonitor/emonpi)
-2. 🗣 Commented on [#186](https://github.com/wakatime/vscode-wakatime/issues/186) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-3. 🗣 Commented on [#121122](https://github.com/microsoft/vscode/issues/121122) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❌ Closed PR [#2](https://github.com/ntthang-dev/restful-api-golang/pull/2) in [ntthang-dev/restful-api-golang](https://github.com/ntthang-dev/restful-api-golang)
-5. 💪 Opened PR [#2](https://github.com/ntthang-dev/restful-api-golang/pull/2) in [ntthang-dev/restful-api-golang](https://github.com/ntthang-dev/restful-api-golang)
+1. ❗️ Closed issue [#129](https://github.com/openenergymonitor/emonpi/issues/129) in [openenergymonitor/emonpi](https://github.com/openenergymonitor/emonpi)
+2. ❗️ Opened issue [#129](https://github.com/openenergymonitor/emonpi/issues/129) in [openenergymonitor/emonpi](https://github.com/openenergymonitor/emonpi)
+3. 🗣 Commented on [#186](https://github.com/wakatime/vscode-wakatime/issues/186) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+4. 🗣 Commented on [#121122](https://github.com/microsoft/vscode/issues/121122) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❌ Closed PR [#2](https://github.com/ntthang-dev/restful-api-golang/pull/2) in [ntthang-dev/restful-api-golang](https://github.com/ntthang-dev/restful-api-golang)
 <!--END_SECTION:activity-->
 
 </details>
