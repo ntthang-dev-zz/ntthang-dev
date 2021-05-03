@@ -199,9 +199,8 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 25 April, 2021 - 02 May, 2021
 
-Other      2 hrs 57 mins   ████████████████▒░░░░░░░░   64.71 % 
-Markdown   1 hr 24 mins    ███████▓░░░░░░░░░░░░░░░░░   30.95 % 
-JSON       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Markdown   1 hr 24 mins    █████████████████▓░░░░░░░   70.44 % 
+Other      35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.56 % 
 ```
 <!--END_SECTION:waka-->
 
