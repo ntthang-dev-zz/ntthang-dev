@@ -197,7 +197,7 @@ You can click the Preview link to take a look at your changes.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 25 April, 2021 - 02 May, 2021
+Week: 26 April, 2021 - 03 May, 2021
 
 Markdown   1 hr 24 mins    █████████████████▓░░░░░░░   70.44 % 
 Other      35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.56 % 
