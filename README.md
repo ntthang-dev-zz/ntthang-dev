@@ -199,9 +199,11 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 13 May, 2021 - 20 May, 2021
 
-Other         1 hr 2 mins     ████████████████▒░░░░░░░░   64.73 % 
-C             24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.05 % 
-Objective-C   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Python        1 hr 7 mins     █████████▒░░░░░░░░░░░░░░░   37.89 % 
+Other         1 hr 2 mins     █████████░░░░░░░░░░░░░░░░   35.48 % 
+C             24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+MATLAB        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Objective-C   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 <!--END_SECTION:waka-->
 
