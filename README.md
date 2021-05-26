@@ -199,11 +199,11 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 18 May, 2021 - 25 May, 2021
 
-Other      3 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   40.69 % 
-C          2 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   31.01 % 
-Python     1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Makefile   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-JSON       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+C          5 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   45.34 % 
+Other      3 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.22 % 
+Python     1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+JSON       1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Makefile   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 <!--END_SECTION:waka-->
 
