@@ -199,9 +199,9 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 30 May, 2021 - 06 June, 2021
 
-JSON    21 mins         █████████░░░░░░░░░░░░░░░░   36.65 % 
-C       21 mins         █████████░░░░░░░░░░░░░░░░   36.23 % 
-Other   16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 % 
+Other   1 hr 46 mins    █████████████████▓░░░░░░░   70.93 % 
+JSON    21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+C       21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 ```
 <!--END_SECTION:waka-->
 
