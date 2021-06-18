@@ -199,8 +199,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 10 June, 2021 - 17 June, 2021
 
-Other   3 hrs 37 mins   ████████████████████████▓   98.74 % 
-Go      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other   3 hrs 42 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
