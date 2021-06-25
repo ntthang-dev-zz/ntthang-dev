@@ -199,7 +199,9 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 18 June, 2021 - 24 June, 2021
 
-Other   1 hr 44 mins    █████████████████████████   100.00 % 
+Other      1 hr 39 mins    ██████████████████▒░░░░░░   73.74 % 
+TOML       21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Markdown   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 <!--END_SECTION:waka-->
 
