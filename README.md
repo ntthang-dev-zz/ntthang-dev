@@ -199,11 +199,11 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 25 June, 2021 - 01 July, 2021
 
-TOML       1 hr 5 mins     ███████████░░░░░░░░░░░░░░   44.40 % 
-HTML       28 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Markdown   27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-JSON       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-YAML       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+TOML       43 mins         █████████▓░░░░░░░░░░░░░░░   39.18 % 
+HTML       28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 % 
+JSON       16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Markdown   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+YAML       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 ```
 <!--END_SECTION:waka-->
 
