@@ -199,7 +199,8 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 14 July, 2021 - 20 July, 2021
 
-Other   1 min           █████████████████████████   100.00 % 
+Other    31 mins         ███████████████▒░░░░░░░░░   61.79 % 
+Python   18 mins         █████████░░░░░░░░░░░░░░░░   36.27 % 
 ```
 <!--END_SECTION:waka-->
 
