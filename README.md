@@ -197,7 +197,9 @@ You can click the Preview link to take a look at your changes.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 22 July, 2021 - 28 July, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
