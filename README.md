@@ -199,7 +199,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 28 July, 2021 - 03 August, 2021
 
-Other   52 mins         █████████████████████████   100.00 % 
+Other   2 hrs 52 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
