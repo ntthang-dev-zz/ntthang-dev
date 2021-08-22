@@ -219,7 +219,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#129](https://github.com/openenergymonitor/emonpi/issues/129) in [openenergymonitor/emonpi](https://github.com/openenergymonitor/emonpi)
+1. ❗️ Opened issue [#3](https://github.com/iceghost/bkalendar/issues/3) in [iceghost/bkalendar](https://github.com/iceghost/bkalendar)
 2. ❗️ Opened issue [#129](https://github.com/openenergymonitor/emonpi/issues/129) in [openenergymonitor/emonpi](https://github.com/openenergymonitor/emonpi)
 3. 🗣 Commented on [#186](https://github.com/wakatime/vscode-wakatime/issues/186) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 4. 🗣 Commented on [#121122](https://github.com/microsoft/vscode/issues/121122) in [microsoft/vscode](https://github.com/microsoft/vscode)
