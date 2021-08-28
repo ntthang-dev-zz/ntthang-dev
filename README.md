@@ -199,11 +199,11 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 21 August, 2021 - 27 August, 2021
 
-Other        2 hrs 2 mins    ██████████████████▒░░░░░░   73.65 % 
-JSON         23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-TypeScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Python       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other        2 hrs 2 mins    ███████████████▓░░░░░░░░░   62.53 % 
+Python       37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 % 
+JSON         23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+TypeScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
