@@ -199,11 +199,9 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 02 September, 2021 - 08 September, 2021
 
-Other      2 hrs 16 mins   █████████████▓░░░░░░░░░░░   55.08 % 
-C#         1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Go         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Markdown   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Arduino    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other     2 hrs 21 mins   ██████████████████████▒░░   88.96 % 
+C#        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Arduino   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
 
