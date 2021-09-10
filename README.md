@@ -197,7 +197,7 @@ You can click the Preview link to take a look at your changes.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
 Other     2 hrs 21 mins   ██████████████████████▒░░   88.96 % 
 C#        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
