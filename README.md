@@ -199,9 +199,9 @@ You can click the Preview link to take a look at your changes.
 ```text
 Week: 19 September, 2021 - 25 September, 2021
 
-Other        2 hrs 3 mins    ██████████████████▓░░░░░░   74.54 % 
-Elm          40 mins         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Elm          40 mins         ████████████▓░░░░░░░░░░░░   50.27 % 
+Other        38 mins         ████████████░░░░░░░░░░░░░   47.37 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
 
